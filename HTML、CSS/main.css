@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url(pic01.jpg);
+    background-size: cover;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    background-image: url(667be6bbb5573fbabfc31c85baaf13eb_t.jpeg);
+    background-size: cover;
+}
+#head{
+    text-align: center;
+}
